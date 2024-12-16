@@ -1,4 +1,4 @@
-# Design of DC-DC Converters for MPPT in Stand-Alone PV System (Spring 2022)
+# Design of DC-DC Converters for MPPT in Stand-Alone PV System
 
 This project focuses on the design and implementation of **DC-DC converters** for optimizing power extraction in a **photovoltaic (PV) system** using **Maximum Power Point Tracking (MPPT)** techniques. The primary goal was to enhance energy efficiency by ensuring that the PV system operates at its maximum power output under various environmental conditions.
 
